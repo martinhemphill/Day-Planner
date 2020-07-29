@@ -1,4 +1,4 @@
-# homework5
+# homework5 - Day Planner Application
 
 Create a calendar application that allows the user to save events for each hour of the day.
 
@@ -12,5 +12,5 @@ Calendar application should have the following features:
 
 
 
-URL of Deployed Application:
-Url of Github Repository:
+URL of Deployed Application: https://martinhemphill.github.io/homework5/
+Url of Github Repository: https://github.com/martinhemphill/homework5
