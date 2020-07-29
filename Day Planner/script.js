@@ -10,6 +10,8 @@ $(document).ready(function() {
     console.log('time:', time);
 
     // save the value in localStorage as time
+
+    localStorage.setItem(time, value);
     
   });
 
@@ -61,6 +63,11 @@ $(document).ready(function() {
 
   // load any saved data from localStorage
   
+    for (var i=9; i<18; i++) {
+      $("#hour-" + i + " .description").val(localStorage.getItem("hour-" + i));
+    }
+
+
 
   // display current day on page
   $("#currentDay").text(moment().format("dddd, MMMM Do"));
