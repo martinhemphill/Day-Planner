@@ -17,7 +17,7 @@ $(document).ready(function() {
 
   function hourUpdater() {
     // get current number of hours
-    var currentHour = 13;
+    var currentHour = moment().hours();
     // var currentHour = moment().hours();
     console.log('current hour:', currentHour);
 
