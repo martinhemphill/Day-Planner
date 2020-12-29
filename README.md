@@ -12,5 +12,5 @@ Calendar application should have the following features:
 
 
 
-URL of Deployed Application: https://martinhemphill.github.io/homework5/
-Url of Github Repository: https://github.com/martinhemphill/homework5
+URL of Deployed Application: https://martinhemphill.github.io/Day-Planner/
+Url of Github Repository: https://github.com/martinhemphill/Day-Planner
