@@ -1,4 +1,5 @@
-# homework5 - Day Planner Application
+# Day Planner Application
+homework 5
 
 Create a calendar application that allows the user to save events for each hour of the day.
 
